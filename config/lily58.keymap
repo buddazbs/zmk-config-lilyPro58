@@ -44,7 +44,7 @@
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                         &kt C_VOLUME_UP  &kt C_VOLUME_DOWN  &kt K_MUTE  &trans  &kt C_BRI_UP  &kt C_BRI_DN
 &trans      &trans        &trans        &trans        &trans        &trans                               &trans           &trans             &trans      &trans  &trans        &trans
 &trans      &trans        &trans        &trans        &trans        &trans                               &trans           &trans             &trans      &trans  &trans        &trans
-&trans      &trans        &trans        &trans        &trans        &trans        &kp PLUS    &kp MINUS  &trans           &trans             &trans      &trans  &trans        &trans
+&trans      &trans        &trans        &trans        &trans        &trans        &kp PLUS    &kp EQUAL  &trans           &trans             &trans      &trans  &trans        &trans
                                         &trans        &trans        &trans        &trans      &trans     &trans           &trans             &trans
             >;
 
